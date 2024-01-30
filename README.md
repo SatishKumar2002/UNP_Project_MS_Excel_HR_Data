@@ -1,6 +1,6 @@
 # UNP_Project_MS_Excel_HR_Data
 
-KEY HIGHLIGHTS
+KEY HIGHLIGHTS :-
 
 - The document may offer insights into employee attrition rates, trends, and factors contributing to attrition, such as work-life balance and promotions.
 - It provides information on the total number of employees (1,470), inactive employees (237), distance from home, work-life balance, percent salary hike, and marital status.
